@@ -1,0 +1,10 @@
+{
+  "name": "vf-core-service-discovery-e2e-projects--basic",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^14.14.31",
+    "@visual-framework/vf-box": "2.2.0",
+    "@visual-framework/vf-footer": "1.1.0",
+    "@visual-framework/vf-grid": "1.0.3"
+  }
+}
